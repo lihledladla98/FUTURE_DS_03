@@ -229,18 +229,6 @@ marketing-funnel-analysis/
 │
 └── README.md                        # This file
 ```
----
-
-## 📸 Dashboard Screenshots
-
-### Page 1 — Executive Overview
-![Page 1](screenshots/page1_executive_overview.png)
-
-### Page 2 — Conversion & Revenue Analysis
-![Page 2](screenshots/page2_conversion_analysis.png)
-
-### Page 3 — Insights & Recommendations
-![Page 3](screenshots/page3_insights.png)
 
 ---
 
