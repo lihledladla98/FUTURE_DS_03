@@ -195,7 +195,7 @@ The **$101–$200 price band** has the highest conversion rate at **2.12%**. The
 
 ## 🚀 How to Use This Dashboard
 
-1. Download `Task_1.pbix` from this repository
+1. Download `Task 3.pbix` from this repository
 2. Open with **Power BI Desktop** (free download at powerbi.microsoft.com)
 3. The data is embedded — no external connections needed
 4. Navigate between **3 pages** using the tabs at the bottom
@@ -217,15 +217,11 @@ marketing-funnel-analysis/
 ├── 📊 Task_1.pbix                    # Power BI Dashboard (main file)
 │
 ├── 📁 data/
-│   └── 2019-Nov.xlsx                 # Raw e-commerce dataset
 │
 ├── 📁 screenshots/
-│   ├── page1_executive_overview.png  # Page 1 screenshot
+│   ├── page1_overview.png  # Page 1 screenshot
 │   ├── page2_conversion_analysis.png # Page 2 screenshot
-│   └── page3_insights.png           # Page 3 screenshot
-│
-├── 📁 analysis/
-│   └── funnel_analysis.xlsx         # Excel analysis report
+│   └── page3_Data_driven_actions.png  # Page 3 screenshot
 │
 └── README.md                        # This file
 ```
